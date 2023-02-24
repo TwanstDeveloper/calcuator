@@ -1,0 +1,10 @@
+C:\Users\sha pc\source\repos\calcutaion\calcutaion\bin\Debug\calcutaion.exe.config
+C:\Users\sha pc\source\repos\calcutaion\calcutaion\bin\Debug\calcutaion.exe
+C:\Users\sha pc\source\repos\calcutaion\calcutaion\bin\Debug\calcutaion.pdb
+C:\Users\sha pc\source\repos\calcutaion\calcutaion\obj\Debug\calcutaion.csproj.AssemblyReference.cache
+C:\Users\sha pc\source\repos\calcutaion\calcutaion\obj\Debug\calcutaion.Form1.resources
+C:\Users\sha pc\source\repos\calcutaion\calcutaion\obj\Debug\calcutaion.Properties.Resources.resources
+C:\Users\sha pc\source\repos\calcutaion\calcutaion\obj\Debug\calcutaion.csproj.GenerateResource.cache
+C:\Users\sha pc\source\repos\calcutaion\calcutaion\obj\Debug\calcutaion.csproj.CoreCompileInputs.cache
+C:\Users\sha pc\source\repos\calcutaion\calcutaion\obj\Debug\calcutaion.exe
+C:\Users\sha pc\source\repos\calcutaion\calcutaion\obj\Debug\calcutaion.pdb
